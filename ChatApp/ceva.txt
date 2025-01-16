@@ -1,0 +1,10 @@
+Messaging Application
+
+Developed a messaging application using Java and JavaFX (FXML) for the user interface.
+Key features include:
+Adding users to a friend list.
+Notifying users of incoming friend requests.
+User authentication and login functionality.
+Paginated user display, allowing a customizable number of users per page.
+Utilized PostgreSQL for data management and persistence.
+Implemented Object-Oriented Programming (OOP) principles to ensure clean and modular code.

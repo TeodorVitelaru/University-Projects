@@ -1,0 +1,42 @@
+# ninja log v5
+17	220	7409415762940390	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/timestamp	3ab7731eaf391ac1
+17	220	7409415762940390	Tasks_autogen/timestamp	3ab7731eaf391ac1
+229	5622	7409415816980159	CMakeFiles/Tasks.dir/GUI.cpp.obj	7977e8f8219d80f5
+17	220	7409415762940390	Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+209	2105	7409411691602172	CMakeFiles/Tasks.dir/Repo.cpp.obj	22fbd5ad6741ac4d
+17	220	7409415762940390	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+332	480	7409357190990641	CMakeFiles/Tasks.dir/Tasks_autogen/mocs_compilation.cpp.obj	8a977419c49539dd
+297	1190	7409414723901590	CMakeFiles/Tasks.dir/Service.cpp.obj	c60c1be494adec66
+272	4265	7409414754614224	CMakeFiles/Tasks.dir/main.cpp.obj	dfe3975135394709
+5623	6494	7409415822825348	Tasks.exe	eff805bac5c7d4c0
+15	176	7409416310669539	Tasks_autogen/timestamp	3ab7731eaf391ac1
+15	176	7409416310669539	Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+15	176	7409416310669539	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/timestamp	3ab7731eaf391ac1
+15	176	7409416310669539	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+189	1670	7409416325582933	CMakeFiles/Tasks.dir/Service.cpp.obj	c60c1be494adec66
+183	5844	7409416367341440	CMakeFiles/Tasks.dir/main.cpp.obj	dfe3975135394709
+195	6725	7409416376114624	CMakeFiles/Tasks.dir/GUI.cpp.obj	7977e8f8219d80f5
+6725	7611	7409416382297199	Tasks.exe	eff805bac5c7d4c0
+23	254	7410292952119107	Tasks_autogen/timestamp	3ab7731eaf391ac1
+23	254	7410292952119107	Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+23	254	7410292952119107	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/timestamp	3ab7731eaf391ac1
+23	254	7410292952119107	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+260	5030	7410292999879325	CMakeFiles/Tasks.dir/main.cpp.obj	dfe3975135394709
+268	5956	7410293009104809	CMakeFiles/Tasks.dir/GUI.cpp.obj	7977e8f8219d80f5
+5956	8252	7410293018118716	Tasks.exe	eff805bac5c7d4c0
+27	302	7413594150144182	Tasks_autogen/timestamp	3ab7731eaf391ac1
+27	302	7413594150144182	Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+27	302	7413594150144182	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/timestamp	3ab7731eaf391ac1
+27	302	7413594150144182	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+310	11096	7413594258059479	CMakeFiles/Tasks.dir/GUI.cpp.obj	7977e8f8219d80f5
+11097	13616	7413594271880848	Tasks.exe	eff805bac5c7d4c0
+21	380	7580358827429306	Tasks_autogen/timestamp	3ab7731eaf391ac1
+21	380	7580358827429306	Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+21	380	7580358827429306	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/timestamp	3ab7731eaf391ac1
+21	380	7580358827429306	D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/Tasks_autogen/mocs_compilation.cpp	3ab7731eaf391ac1
+386	640	7580358830457657	CMakeFiles/Tasks.dir/Tasks_autogen/mocs_compilation.cpp.obj	8a977419c49539dd
+398	1731	7580358841652772	CMakeFiles/Tasks.dir/Service.cpp.obj	c60c1be494adec66
+405	2112	7580358845466240	CMakeFiles/Tasks.dir/Repo.cpp.obj	22fbd5ad6741ac4d
+381	5775	7580358882084791	CMakeFiles/Tasks.dir/main.cpp.obj	dfe3975135394709
+392	7086	7580358895149201	CMakeFiles/Tasks.dir/GUI.cpp.obj	7977e8f8219d80f5
+7087	10821	7580358902212902	Tasks.exe	eff805bac5c7d4c0

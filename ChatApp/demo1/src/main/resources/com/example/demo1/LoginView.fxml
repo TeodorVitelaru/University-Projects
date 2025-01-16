@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<GridPane xmlns:fx="http://javafx.com/fxml"
+          fx:controller="com.example.demo1.controller.LoginController"
+          alignment="CENTER" hgap="10" vgap="10">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <VBox spacing="10">
+        <HBox spacing="10">
+            <VBox spacing="10">
+                <Label fx:id="label1"/>
+                <Label fx:id="label2" GridPane.rowIndex="1"/>
+            </VBox>
+
+            <VBox>
+                <TextField fx:id="usernameField" GridPane.columnIndex="1"/>
+                <PasswordField fx:id="passwordField" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+            </VBox>
+        </HBox>
+        <HBox alignment="CENTER" spacing="10">
+            <Button fx:id="logInButton" text="Login" onAction="#handleLogin" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+            <Button fx:id="signUpButton" text="SignUp" onAction="#handleSignUp" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+            <Button fx:id="backToButton" text="Register" onAction="#handleAddUser" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+
+        </HBox>
+
+    </VBox>
+
+</GridPane>

@@ -1,0 +1,5 @@
+D:/facultate/semestrul 2/OOP/LAB10-11/cmake-build-debug/CMakeFiles/LAB10_11.dir
+D:/facultate/semestrul 2/OOP/LAB10-11/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/facultate/semestrul 2/OOP/LAB10-11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/facultate/semestrul 2/OOP/LAB10-11/cmake-build-debug/CMakeFiles/LAB10_11_autogen_timestamp_deps.dir
+D:/facultate/semestrul 2/OOP/LAB10-11/cmake-build-debug/CMakeFiles/LAB10_11_autogen.dir

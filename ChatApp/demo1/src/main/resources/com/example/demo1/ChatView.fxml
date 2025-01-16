@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.demo1.controller.ChatController"
+            prefHeight="400.0" prefWidth="600.0">
+    <VBox AnchorPane.topAnchor="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" spacing="30" alignment="CENTER">
+        <Label fx:id="chatWithLabel" alignment="CENTER"/>
+        <ScrollPane fx:id="scrollPane" fitToWidth="true" VBox.vgrow="ALWAYS">
+            <VBox fx:id="messageBox" spacing="5" VBox.vgrow="ALWAYS" />
+        </ScrollPane>
+        <Label fx:id="repliedMessageLabel"/>
+        <HBox alignment="CENTER">
+            <TextField fx:id="messageField"/>
+            <Button text="Send" onAction="#handleSendMessage"/>
+        </HBox>
+    </VBox>
+
+</AnchorPane>

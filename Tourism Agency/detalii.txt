@@ -1,0 +1,5 @@
+Tourism Agency Management Application
+
+Developed a C++ application with a graphical user interface using Qt to manage tourism offers.
+Implemented CRUD operations, filtering by specific criteria, and undo functionality.
+Applied advanced OOP principles and the Observer design pattern to ensure modularity and scalability.

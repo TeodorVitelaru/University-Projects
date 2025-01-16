@@ -1,0 +1,5 @@
+D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/CMakeFiles/Tasks.dir
+D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/CMakeFiles/Tasks_autogen_timestamp_deps.dir
+D:/facultate/semestrul 2/OOP/Tasks/cmake-build-debug/CMakeFiles/Tasks_autogen.dir

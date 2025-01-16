@@ -1,0 +1,5 @@
+Task Management Application
+
+Designed and implemented a task management application in C++ with a graphical user interface using Qt.
+Incorporated CRUD operations, filtering, and undo functionality to streamline task operations.
+Leveraged OOP principles and the Observer design pattern for efficient and scalable application design.
