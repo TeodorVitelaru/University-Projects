@@ -1,6 +1,6 @@
 # University Projects Repository
 
-This repository contains multiple projects developed during my university studies at the Faculty of Mathematics and Computer Science, Babeș-Bolyai University. The projects cover various domains, including object-oriented programming, application development, computer networks, and memory management.
+Welcome to my University Projects repository! This collection showcases key academic projects developed during my university studies. The projects originate from laboratory work for OOP (Object-Oriented Programming) in C++ and APM (Advanced Programming Methods) in Java. Below is an overview of each project.
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains multiple projects developed during my university studie
 - Similar to Tourism Agency, but focused on task management.
 - Developed in C++ using Qt for GUI.
 - Applies OOP concepts and memory management.  
-  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Task%20Management)** _(Under Development)_
+  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Task%20Management)**
 
 ---
 
