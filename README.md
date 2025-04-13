@@ -12,7 +12,15 @@ Welcome to my University Projects repository! This collection showcases key acad
 - Uses JavaFX for the graphical interface.
 - Connectivity with PostgreSQL for data storage.
 - Implements the Observer design pattern.  
-  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/ChatApp)**
+  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/ChatApp%20--%20Java)**
+
+### **Tourism Agency Ticket System (Java Client-Server)**
+
+- Secure client-server application for tourism ticket management.
+- Uses **RPC** for communication and **Proxy pattern** for resource optimization.
+- **JavaFX** interface with real-time ticket availability updates.
+- SQLite database password encryption.  
+  🔗 \*\*[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Tourism-Ticket-System)\*\*
 
 ### **Tourism Agency Management Application (C++)**
 
@@ -20,7 +28,7 @@ Welcome to my University Projects repository! This collection showcases key acad
 - Developed in C++ with a graphical interface using Qt.
 - Uses STL (Standard Template Library) and custom vector implementation with iterators and templates.
 - Applies design patterns such as Observer and MVC.  
-  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Tourism%20Agency)**
+  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Tourism%20Agency%20--%20C%2B%2B)**
 
 ### **Cisco Network Project**
 
@@ -35,7 +43,7 @@ Welcome to my University Projects repository! This collection showcases key acad
 - Similar to Tourism Agency, but focused on task management.
 - Developed in C++ using Qt for GUI.
 - Applies OOP concepts and memory management.  
-  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Task%20Management)**
+  🔗 **[View Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Tasks%20--%20C%2B%2B)**
 
 ---
 

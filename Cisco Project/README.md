@@ -23,11 +23,3 @@ A simulated multi-subnet network with routing configurations.
 2. **Open the Project:**
    - Load `network.pkt` in Packet Tracer.
    - Explore configurations via CLI/GUI.
-
-## 🔍 Topology Preview
-
-![Network Diagram](https://via.placeholder.com/600x300?text=Cisco+Network+Topology)
-
-## 🔗 Links
-
-- [Source Code](https://github.com/TeodorVitelaru/University-Projects/tree/main/Cisco%20Project)
